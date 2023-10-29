@@ -11,8 +11,7 @@ sources:
           - name: DateKey
             tests:
               - unique
-
-    name: northwind
+  - name: northwind
     database: raw
     schema: northwind
 
